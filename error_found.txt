@@ -1,0 +1,4 @@
+Listening to port 4567
+Connected!!!
+path_planning: /home/workspace/CarND-Path-Planning-Project.ORG/src/spline.h:287: void {anonymous}::tk::spline::set_points(const std::vector<double>&, const std::vector<double>&, bool): Assertion `x.size()==y.size()' failed.
+Aborted (core dumped)
