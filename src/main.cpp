@@ -110,9 +110,9 @@ int main() {
           json msgJson;
 
           // define the actual (x,y) points we will use in the planner
-          vector<double> next_x_vals;
-          vector<double> next_y_vals;
-
+          //   vector<double> next_x_vals;
+          //  vector<double> next_y_vals;
+		  // CLENAUP IN NEXT CODE REVIEW
           
           
           /**
