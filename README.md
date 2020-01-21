@@ -20,6 +20,13 @@ In this project your goal is to safely navigate around a virtual highway with ot
 ![Connected](images/connected.png)
 
 
+## Result
+
+A partial video capture of the simulation run can bee seen here https://youtu.be/N5TRy8Irfrs
+
+![Final State](images/Completed.png)
+
+
 ## External Resources used
 
 A really helpful resource for doing this project and creating smooth trajectories was using http://kluge.in-chemnitz.de/opensource/spline/, the spline function is in a single hearder file is really easy to use.
