@@ -11,6 +11,9 @@
 
 #include "spline.h" // added 
 
+
+/* HINT CODE MERGED */
+
 // for convenience
 using nlohmann::json;
 using std::string;
