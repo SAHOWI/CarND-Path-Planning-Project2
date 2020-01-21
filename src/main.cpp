@@ -249,6 +249,7 @@ int main() {
 	}
 
 	// Using Frenet, add 30 m evenly spaced points ahead of the starting reference
+	// using 30, 60 and 90 m waypoints in the future
 	vector<double> next_wp0 = getXY(car_s+30, (2+4*lane), map_waypoints_s, map_waypoints_x, map_waypoints_y);
 	vector<double> next_wp1 = getXY(car_s+60, (2+4*lane), map_waypoints_s, map_waypoints_x, map_waypoints_y);
 	vector<double> next_wp2 = getXY(car_s+90, (2+4*lane), map_waypoints_s, map_waypoints_x, map_waypoints_y);
